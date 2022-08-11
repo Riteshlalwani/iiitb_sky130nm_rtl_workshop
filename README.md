@@ -6,7 +6,7 @@ RTL workshop based on sky 130nm technology.
 <img src="images/Verilog-flyer.png">
 
 ## Table Of Contents 
-  * ## [Project Scope](Project-Scope)
+  * ## [Project Scope](#1-Project-Scope)
   * ### [Getting Started](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#getting-started)
   * ### [Introduction to Verilog RTL Design & Synthesis](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#day-1----introduction-to-verilog-rtl-design-and-synthesis)
     * #### [Setting up libraries & lab instances](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-1----setup-the-lab-instance-with-libraries-and-verilog-files)
@@ -33,7 +33,7 @@ RTL workshop based on sky 130nm technology.
 
 
 
-## Project Scope
+## 1. Project Scope
 
 The project provides a detailed account of the 5-day workshop facilitated by VSD on RTL Design in Verilog using the SKY130 Technology. 
 

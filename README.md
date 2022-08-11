@@ -49,7 +49,7 @@ Users interested in practicing design using open-source tools need a Linux based
 Basic knowledge of Verilog HDL is required to follow the content without any difficulties
 
 ---
-## Day 1 -  Introduction to Verilog RTL Design and Synthesis
+## 3. Day 1 -  Introduction to Verilog RTL Design and Synthesis
 
 The first day covers the basics of RTL Design, Testbench, Simulation and Synthesis. Open-Source softwares like iverilog (simulator) and YOSYS (Synthesis) are provided through remote access in the portal to practice labs.
 

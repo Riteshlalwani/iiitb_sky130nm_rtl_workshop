@@ -10,9 +10,9 @@ RTL workshop based on sky 130nm technology.
   * ## [Getting Started](#2-Getting-Started)
   * ## [Introduction to Verilog RTL Design & Synthesis](Introduction)
     * #### [Setting up libraries & lab instances]
-    * #### [iverilog Simulation of 2:1 MUX RTL Design](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-2---simulation-using-iverilog-simulator---21-multiplexer-rtl-design)
-    * #### [Synthesis using YOSYS Tool](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-3----synthesis-using-yosys-open-source-tool)
-  * ### [Timing libs, Hierarchical vs Flat Synthesis & Efficient FlipFlop coding styles](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#day-2---timing-libs-hierarchical-vs-flat-synthesis--efficient-flipflop-coding-styles)
+    * #### [iverilog Simulation of 2:1 MUX RTL Design]
+    * #### [Synthesis using YOSYS Tool]
+  * ### [Timing libs, Hierarchical vs Flat Synthesis & Efficient FlipFlop coding styles]
     * #### [The .lib file](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-1---more-about-the-lib-file)
     * #### [Hierarchical vs Flat Synthesis](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-2---hierarchical-vs-flat-synthesis)
     * #### [Efficient Flipflop Coding Styles & Optimizations](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-3---efficient-flip-flop-coding-styles-and-optimizations)

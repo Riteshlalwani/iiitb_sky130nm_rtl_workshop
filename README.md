@@ -8,7 +8,7 @@ RTL workshop based on sky 130nm technology.
 ## Table Of Contents 
   * ## [Project Scope](#1-Project-Scope)
   * ## [Getting Started](#2-Getting-Started)
-  * ## [Introduction to Verilog RTL Design & Synthesis](#3-Introduction)
+  * ## [Introduction to Verilog RTL Design & Synthesis](#3-Introduction-to-Verilog-RTL-Design-&-Synthesis)
     * #### [Setting up libraries & lab instances]
     * #### [iverilog Simulation of 2:1 MUX RTL Design]
     * #### [Synthesis using YOSYS Tool]

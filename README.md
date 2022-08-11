@@ -8,28 +8,28 @@ RTL workshop based on sky 130nm technology.
 ## Table Of Contents 
   * ## [Project Scope](#1-Project-Scope)
   * ## [Getting Started](#2-Getting-Started)
-  * ## [Introduction to Verilog RTL Design & Synthesis](Introduction)
+  * ## [Introduction to Verilog RTL Design & Synthesis](#3-Introduction)
     * #### [Setting up libraries & lab instances]
     * #### [iverilog Simulation of 2:1 MUX RTL Design]
     * #### [Synthesis using YOSYS Tool]
-  * ### [Timing libs, Hierarchical vs Flat Synthesis & Efficient FlipFlop coding styles](Timing)
+  * ### [Timing libs, Hierarchical vs Flat Synthesis & Efficient FlipFlop coding styles](#4-Timing)
     * #### [The .lib file]
     * #### [Hierarchical vs Flat Synthesis]
     * #### [Efficient Flipflop Coding Styles & Optimizations]
-  * ### [Combinational & Sequentail Optimizations](combinational-and-sequential-optimizations)
+  * ### [Combinational & Sequentail Optimizations](#5-combinational-and-sequential-optimizations)
     * #### [Intro to Combinational Logic Optimizations]
     * #### [Intro to Sequential Logic Optimizations]
     * #### [Sequential Logic Optimizations of Un-used Outputs]
-  * ### [Gate Level Simulation (GLS), Blocking vs Non-blocking & Synthesis-Simulation Mismatch](blocking-vs-non-blocking-and-synthesis-simulation-mismatch)
+  * ### [Gate Level Simulation (GLS), Blocking vs Non-blocking & Synthesis-Simulation Mismatch](#6-blocking-vs-non-blocking-and-synthesis-simulation-mismatch)
     * #### [Gate Level Simulation (GLS)]
     * #### [Synthesis - Simulation Mismatches]
     * #### [Blocking vs Non-blocking Assignments]
-  * ### [IF..CASE Statments & For Loop..For generate](ifcase-statments--for-loopfor-generate)
+  * ### [IF..CASE Statments & For Loop..For generate](#7-ifcase-statments--for-loopfor-generate)
     * #### [IF.. Statements]
     * #### [CASE.. Statements]
     * #### [FOR..loop vs FOR..GENERATE Statements])
-  * ### [ACKNOWLEDGEMENTS](Acknowledgements)
-  * ### [References](References)
+  * ### [ACKNOWLEDGEMENTS](#8-Acknowledgements)
+  * ### [References](#9-References)
 
 
 

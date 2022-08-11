@@ -7,7 +7,7 @@ RTL workshop based on sky 130nm technology.
 
 ## Table Of Contents 
   * ## [Project Scope](#1-Project-Scope)
-  * ## [Getting Started](#2-Getting Started)
+  * ## [Getting Started](#2-Getting-Started)
   * ## [Introduction to Verilog RTL Design & Synthesis](Introduction)
     * #### [Setting up libraries & lab instances](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-1----setup-the-lab-instance-with-libraries-and-verilog-files)
     * #### [iverilog Simulation of 2:1 MUX RTL Design](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-2---simulation-using-iverilog-simulator---21-multiplexer-rtl-design)

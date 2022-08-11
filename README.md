@@ -153,7 +153,7 @@ The final sysnthesized netlist shows that the 2:1 multiplexer RTL is translated 
 
 ----
 
-## Day 2 - Timing libs, Hierarchical vs Flat Synthesis & Efficient FlipFlop coding styles
+## 4. Day 2 - Timing libs, Hierarchical vs Flat Synthesis & Efficient FlipFlop coding styles
 
 ### Part 1 - More about the .lib file
 

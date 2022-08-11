@@ -12,11 +12,11 @@ RTL workshop based on sky 130nm technology.
     * #### [Setting up libraries & lab instances]
     * #### [iverilog Simulation of 2:1 MUX RTL Design]
     * #### [Synthesis using YOSYS Tool]
-  * ### [Timing libs, Hierarchical vs Flat Synthesis & Efficient FlipFlop coding styles]
-    * #### [The .lib file](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-1---more-about-the-lib-file)
-    * #### [Hierarchical vs Flat Synthesis](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-2---hierarchical-vs-flat-synthesis)
-    * #### [Efficient Flipflop Coding Styles & Optimizations](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-3---efficient-flip-flop-coding-styles-and-optimizations)
-  * ### [Combinational & Sequentail Optimizations](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#day-3---combinational-and-sequential-optimizations)
+  * ### [Timing libs, Hierarchical vs Flat Synthesis & Efficient FlipFlop coding styles](Timing)
+    * #### [The .lib file]
+    * #### [Hierarchical vs Flat Synthesis]
+    * #### [Efficient Flipflop Coding Styles & Optimizations]
+  * ### [Combinational & Sequentail Optimizations](combinational-and-sequential-optimizations)
     * #### [Intro to Combinational Logic Optimizations](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-1---intro-to-combinational-logic-optimizations)
     * #### [Intro to Sequential Logic Optimizations](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-2---intro-to-sequential-logic-optimizations)
     * #### [Sequential Logic Optimizations of Un-used Outputs](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-3---sequential-logic-optimizations-of-un-used-outputs)

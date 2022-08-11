@@ -17,19 +17,19 @@ RTL workshop based on sky 130nm technology.
     * #### [Hierarchical vs Flat Synthesis]
     * #### [Efficient Flipflop Coding Styles & Optimizations]
   * ### [Combinational & Sequentail Optimizations](combinational-and-sequential-optimizations)
-    * #### [Intro to Combinational Logic Optimizations](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-1---intro-to-combinational-logic-optimizations)
-    * #### [Intro to Sequential Logic Optimizations](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-2---intro-to-sequential-logic-optimizations)
-    * #### [Sequential Logic Optimizations of Un-used Outputs](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop/blob/main/README.md#part-3---sequential-logic-optimizations-of-un-used-outputs)
-  * ### [Gate Level Simulation (GLS), Blocking vs Non-blocking & Synthesis-Simulation Mismatch](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#day-4---gate-level-simulationgls-blocking-vs-non-blocking-and-synthesis-simulation-mismatch)
-    * #### [Gate Level Simulation (GLS)](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#part-1---what-is-gate-level-simulation-gls-)
-    * #### [Synthesis - Simulation Mismatches](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#part-2---synthesis---simulation-mismatches)
-    * #### [Blocking vs Non-blocking Assignments](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#blocking-vs-non-blocking-assignments)
-  * ### [IF..CASE Statments & For Loop..For generate](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#ifcase-statments--for-loopfor-generate)
-    * #### [IF.. Statements](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#part-1---if-statements)
-    * #### [CASE.. Statements](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#part-2---case-statements)
-    * #### [FOR..loop vs FOR..GENERATE Statements](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#part-3---forloop-vs-forgenerate-statements)
-  * ### [ACKNOWLEDGEMENTS](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#acknowledgements)
-  * ### [References](https://github.com/SrinathVelavan/SKY130-RTL-Design-Workshop#references)
+    * #### [Intro to Combinational Logic Optimizations]
+    * #### [Intro to Sequential Logic Optimizations]
+    * #### [Sequential Logic Optimizations of Un-used Outputs]
+  * ### [Gate Level Simulation (GLS), Blocking vs Non-blocking & Synthesis-Simulation Mismatch](blocking-vs-non-blocking-and-synthesis-simulation-mismatch)
+    * #### [Gate Level Simulation (GLS)]
+    * #### [Synthesis - Simulation Mismatches]
+    * #### [Blocking vs Non-blocking Assignments]
+  * ### [IF..CASE Statments & For Loop..For generate](ifcase-statments--for-loopfor-generate)
+    * #### [IF.. Statements]
+    * #### [CASE.. Statements]
+    * #### [FOR..loop vs FOR..GENERATE Statements])
+  * ### [ACKNOWLEDGEMENTS](Acknowledgements)
+  * ### [References](References)
 
 
 
